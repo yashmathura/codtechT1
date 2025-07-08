@@ -15,5 +15,7 @@ Arduino Uno or ESP32
 LED
 
 Blynk App (Virtual Button)
+# OUTPUT
+![image alt](https://github.com/yashmathura/codtechT1/blob/dae12b7f538e1e05bb4846b38937821ab4a7dcfe/Screenshot%202025-07-08%20183311.png)
 
 WiFi Connection (for ESP32)
